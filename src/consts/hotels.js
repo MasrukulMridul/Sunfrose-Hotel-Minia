@@ -29,7 +29,7 @@ const hotels = [
     location: 'Main street',
     price: 100,
     image: require('../assets/hotel4.jpg'),
-    details: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consequat nisl quam id leo. Velit euismod in pellentesque massa placerat duis ultricies lacus sed. Justo amet cursus sit`,
+    details: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consequat quam id leo. Velit euismod in pellentesque massa placerat duis ultricies lacus sed. Justo amet cursus sit`,
   },
 ];
 
